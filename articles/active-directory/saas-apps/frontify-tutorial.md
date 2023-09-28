@@ -124,7 +124,7 @@ To configure single sign-on on **Frontify** side, you need to send the **App Fed
 
 ### Create Frontify test user
 
-In this section, you create a user called Britta Simon in Frontify. Work with [Frontify support team](mailto:support@frontify.com) to add the users in the Frontify platform. Users must be created and activated before you use single sign-on.
+In this section, you create a user called Britta Simon in Frontify. Frontify uses Just-In-Time (JIT) provisioning so there is no need to create a user within Frontify upfront. It gets created during authentication through Azure.
 
 ## Test SSO 
 
